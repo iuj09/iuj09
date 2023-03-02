@@ -4,9 +4,6 @@
 ## Intro
 > ## 2022.09.22 : 비트교육센터 클라우드 기반 빅데이터 서비스 개발자 양성과정 수료
 
-## Tech Stack
-> 
-
 ## Project
 > ## Seoul Landmark Travle Guide : https://github.com/iuj09/SeoulLandmarkTravelGuide
 
