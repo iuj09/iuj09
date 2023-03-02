@@ -1,4 +1,11 @@
-### Hi there 👋
+# About Me
+> 이우진
+
+# Intro
+> 2022.09.22 : 비트교육센터 클라우드 기반 빅데이터 서비스 개발자 양성과정 수료
+
+# Project
+> Seoul
 
 <!--
 **iuj09/iuj09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
