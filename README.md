@@ -1,12 +1,12 @@
-## 이우진
+# 이우진
 
-## Education
+# Education
 > 2022.09.22 : 비트교육센터 클라우드 기반 빅데이터 서비스 개발자 양성 과정 수료<br/>
 > 2023.08.01 ~ : KOSTA Java 기반 클라우드 개발자 양성 과정 진행 중
 
 <br/>
 
-##  Projects
+#  Projects
 > 1. NOTEU [교육자와 학습자가 서로 소통하고 자료를 공유할 수 있는 교육 플랫폼 서비스] : [프로젝트 링크](https://github.com/iuj09/noteu.git)
 > 2. Highway Rest [오픈 API를 이용한 휴게소 음식 주문 서비스] : [프로젝트 링크](https://github.com/iuj09/highwayrest.git)
 > 3. Seoul Landmark Travle Guide [AWS Rekognition을 활용한 맛집 위치 정보 제공 서비스] : [프로젝트 링크](https://github.com/iuj09/SeoulLandmarkTravelGuide.git)
