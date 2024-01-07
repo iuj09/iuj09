@@ -9,7 +9,7 @@
 #  Projects
 > 1. NOTEU [교육자와 학습자가 서로 소통하고 자료를 공유할 수 있는 교육 플랫폼 서비스] : [프로젝트 링크](https://github.com/iuj09/noteu.git)
 > 2. Highway Rest [오픈 API를 이용한 휴게소 음식 주문 서비스] : [프로젝트 링크](https://github.com/iuj09/highwayrest.git)
-> 3. Seoul Landmark Travle Guide [AWS Rekognition을 활용한 맛집 위치 정보 제공 서비스] : [프로젝트 링크](https://github.com/iuj09/SeoulLandmarkTravelGuide.git)
+> 3. Seoul Landmark Travle Guide [AWS Rekognition을 활용한 랜드마크 주변 맛집 위치 정보 제공 서비스] : [프로젝트 링크](https://github.com/iuj09/SeoulLandmarkTravelGuide.git)
 
 
 <br/>
